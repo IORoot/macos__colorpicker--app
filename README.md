@@ -1,4 +1,7 @@
-# 🌈 MacOS Colorpicker app
+# 🌈 MacOS Colorpicker App Shortcut
+
+![colorpicker](docs/colorpicker.png)
+
 
 ## What?
 
