@@ -2,7 +2,7 @@
 
 A little applescript app to directly access the official Apple colorpicker tool.
 
-![colorpicker](docs/colorpicker.png)
+![colorpicker](https://github.com/IORoot/macos__colorpicker--app/blob/79a9a5cfedcdf508e24ee0e9117b3811b1758164/docs/colorpicker.png)
 
 
 ## Why?
