@@ -4,7 +4,7 @@
 <div align="center">
 
 <div style="filter: invert(53%) sepia(5%) saturate(6060%) hue-rotate(314deg) brightness(108%) contrast(95%);">
-<img src="https://cdn.jsdelivr.net/npm/@mdi/svg@6.7.96/svg/palette.svg" style="width:200px;"/>
+<img src="https://cdn.jsdelivr.net/npm/@mdi/svg@6.7.96/svg/eyedropper-variant.svg" style="width:200px;"/>
 </div>
 
 <h3 align="center">🌈 MacOS Colorpicker App Shortcut</h3>
@@ -16,18 +16,17 @@ A little applescript app to directly access the official Apple colorpicker tool.
 
 ##  1. <a name='TableofContents'></a>Table of Contents
 
-
 * 1. [Table of Contents](#TableofContents)
 * 2. [About The Project](#AboutTheProject)
 	* 2.1. [Built With](#BuiltWith)
 	* 2.2. [Installation](#Installation)
 * 3. [Usage](#Usage)
-	* 3.1. [Import into Apple colorpicker panel](#ImportintoApplecolorpickerpanel)
 * 4. [ Customising](#Customising)
 * 5. [Troubleshooting](#Troubleshooting)
 * 6. [Contributing](#Contributing)
 * 7. [License](#License)
 * 8. [Contact](#Contact)
+	* 8.1. [Credit](#Credit)
 * 9. [Changelog](#Changelog)
 
 
@@ -130,7 +129,7 @@ SOFTWARE.
 
 Author Link: [https://github.com/IORoot](https://github.com/IORoot)
 
-### Credit
+###  8.1. <a name='Credit'></a>Credit
 
 The colourpicker app is a compiled version from tinogomes and this GIST at https://gist.github.com/tinogomes/2476447
 
@@ -139,3 +138,4 @@ The colourpicker app is a compiled version from tinogomes and this GIST at https
 ##  9. <a name='Changelog'></a>Changelog
 
 0.0.1 - Inital bundle of tools.
+
